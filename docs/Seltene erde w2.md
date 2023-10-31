@@ -1,4 +1,5 @@
-# Ablauf Woche 2
+# Seltene Erde und Energiewende
+## Ablauf Woche 2
 - SRF Trend Der Wettlauf um kritische Mineralien für die Energiewende
 - Energiewende-Debatte
 - Rolle seltener Erden
@@ -9,8 +10,11 @@
 - Gruppenarbeit - Vorbereitung Debatte Energiewende
 - Gruppenarbeit - Recherche zum vorgegebenen Mineral
 <iframe width="100%" height="600" src="https://www.srf.ch/play/embed?urn=urn:srf:audio:c1e3c8a1-2bf7-4374-bc85-41dd07cb75d4&subdivisions=false" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
+
+## Diskussion
 - Diskutiert innerhalb eurer Gruppe die Rolle von erneuerbaren Energien und wie ihr die Zukunft in diesem Bereich seht.
-- Erstellt ein Gruppen-[Statement]([[Kurzstatement]]), das entweder die einheitliche Meinung der Gruppe oder die verschiedenen Positionen innerhalb der Gruppe widerspiegelt.
+- Erstellt ein persönlichen [Statement](Kurzstatement), das entweder die einheitliche Meinung der Gruppe oder die verschiedenen Positionen innerhalb der Gruppe widerspiegelt.
+<iframe width="100%" height="480px" src="https://forms.microsoft.com/Pages/ResponsePage.aspx?id=3JD3sB8inkC07KJqJT_b3gzhkYlYD0VIpERRWTmitHRUOEdCVjc2OE1UNlFZMEk4VVZRM0pRNjRRNyQlQCNjPTEu&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 # Rolle seltener Erden
 - 1. Euch wird eines der folgenden Mineralien zugewiesen: Lithium, Kobalt, Neodym, Graphit, Silber, Kupfer, Dysprosium.
 - 2. Erstellt ein Fact-Sheet mit ==Anwendungen==, ==Vorkommen== und ==ökologischen Auswirkungen== der zugewiesenen Mineralien.
