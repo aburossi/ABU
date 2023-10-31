@@ -1,4 +1,6 @@
-[<button id="go-back">Zurück</button>](**`History.back()`**)
+[Zurück](`History.back()`)
+
+**Kreislaufwirtschaft** ist ein Wirtschaftssystem, das auf der **Reduzierung**, **Wiederverwendung** und **Recycling** von Ressourcen beruht. Es zielt darauf ab, den **Ressourcenverbrauch** zu minimieren, **Abfall** und **Emissionen** zu reduzieren und Produkte und Materialien in einem **kontinuierlichen Kreislauf** zu halten, um so die **Nachhaltigkeit** zu fördern und die Umweltbelastung zu verringern.
 
 Ein **Kurzstatement** ist eine kompakte und prägnante Darstellung deiner Meinung zu einem Thema. Hier ist eine schnelle Anleitung, wie du ein Kurzstatement für eine spontane Diskussion erstellen kannst:
 ## 1. Thema verstehen
