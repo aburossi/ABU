@@ -10,7 +10,7 @@
 - Gruppenarbeit - Recherche zum vorgegebenen Mineral
 <iframe width="100%" height="600" src="https://www.srf.ch/play/embed?urn=urn:srf:audio:c1e3c8a1-2bf7-4374-bc85-41dd07cb75d4&subdivisions=false" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
 - Diskutiert innerhalb eurer Gruppe die Rolle von erneuerbaren Energien und wie ihr die Zukunft in diesem Bereich seht.
-- Erstellt ein Gruppen-[Statement](obsidian://open?vault=ABUNEWS&file=ABU%2Fdocs%2FKurzstatement), das entweder die einheitliche Meinung der Gruppe oder die verschiedenen Positionen innerhalb der Gruppe widerspiegelt.
+- Erstellt ein Gruppen-[Statement]([[Kurzstatement]]), das entweder die einheitliche Meinung der Gruppe oder die verschiedenen Positionen innerhalb der Gruppe widerspiegelt.
 # Rolle seltener Erden
 - 1. Euch wird eines der folgenden Mineralien zugewiesen: Lithium, Kobalt, Neodym, Graphit, Silber, Kupfer, Dysprosium.
 - 2. Erstellt ein Fact-Sheet mit ==Anwendungen==, ==Vorkommen== und ==ökologischen Auswirkungen== der zugewiesenen Mineralien.
